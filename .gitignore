@@ -1,0 +1,17 @@
+# Build i output
+/build/
+/dist/
+*.class
+
+# IDE privatni fajlovi
+nbproject/private/
+
+# Log i temp fajlovi
+*.log
+*.tmp
+
+# OS fajlovi
+.DS_Store
+Thumbs.db
+
+
